@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Cat will start loafing in $((60 - $(date +%M) )) minutes"
